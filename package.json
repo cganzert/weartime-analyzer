@@ -1,0 +1,22 @@
+{
+  "name": "weartime-analyzer",
+  "version": "1.0.0",
+  "description": "An analysis app to see the difference of internal vs external time of wearing a tracker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cganzert/weartime-analyzer.git"
+  },
+  "author": "Carl Ganzert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cganzert/weartime-analyzer/issues"
+  },
+  "homepage": "https://github.com/cganzert/weartime-analyzer#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
